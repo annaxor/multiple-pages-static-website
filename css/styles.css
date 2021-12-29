@@ -1,11 +1,26 @@
 body {
-  background-color: yellowgreen;
+  background-color: #f8e8a6;
 }
 h1 {
   text-align: center;
-  color: white;
 }
-a {
-  color: white;
+
+footer a {
+  color: chocolate;
+  margin: 0 10px;
+}
+
+footer {
   text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
